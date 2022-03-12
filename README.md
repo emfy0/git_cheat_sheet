@@ -185,14 +185,14 @@ git merge <с_чем>
 >
 >Текущая ветка ```master```
 >```
->	  A---B---C topic
->	 /
->     D---E---F---G master (мы тут)
+>     A---B---C topic
+>    /
+>   D---E---F---G master (мы тут)
 >```
 >После введения команды ```git merge topic``` получаем:
 >```
->	     A---B---C topic
->	    /         \
+>	         A---B---C topic
+>	        /         \
 >        /           H master (теперь мы тут)
 >       /           /
 >      D---E---F---G
