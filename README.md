@@ -25,7 +25,6 @@
 
 
 <a name="urls"><h2>Ссылки</h2></a>
----
 
 [Обязательно к прохождению](https://learngitbranching.js.org/?locale=ru_RU)
 
